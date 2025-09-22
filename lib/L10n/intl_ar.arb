@@ -1,0 +1,17 @@
+{
+"@@locale": "ar",
+"app_title": "المتجر الجمالي",
+"welcome_sign_up": "اشتراك",
+"welcome_sign_in": "تسجيل دخول",
+"our_products": "منتجاتنا",
+"hot_offers": "الساخنة العروض",
+"account_created_success": "تم إنشاء الحساب بنجاح",
+"account_signed_in_success": "تم تسجيل الدخول بنجاح",
+"full_name": "الاسم الكامل",
+"email": "البريد الإلكتروني",
+"password": "كلمة المرور",
+"confirm_password": "تأكيد كلمة المرور",
+"close": "إغلاق",
+"add_to_cart": "تمت إضافة المنتج إلى السلة",
+"offers_desc": "عرض لفترة محدودة!"
+}

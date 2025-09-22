@@ -1,0 +1,17 @@
+{
+"@@locale": "en",
+"app_title": "Aesthetic Shop",
+"welcome_sign_up": "Sign-up",
+"welcome_sign_in": "Sign-in",
+"our_products": "Our Products",
+"hot_offers": "Hot Offers",
+"account_created_success": "Account created successfully",
+"account_signed_in_success": "Account sign-in successfully",
+"full_name": "Full Name",
+"email": "Email",
+"password": "Password",
+"confirm_password": "Confirm Password",
+"close": "Close",
+"add_to_cart": "Item added to the cart",
+"offers_desc": "Limited time offer!"
+}
