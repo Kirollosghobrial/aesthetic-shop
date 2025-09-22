@@ -1,18 +1,30 @@
 # Aesthetic Shopping App
 
-A simple shopping app for beauty products.
+A Flutter shopping app for beauty products with bilingual support.
 
 ## Features
-- Sign up and login
-- Browse products  
-- Add to cart
-- English and Arabic language
-
-## How to Run
-1. Download Flutter
-2. Open project in Android Studio/VSCode
-3. Run: flutter pub get
-4. Run: flutter run
+- ✅ User registration and login
+- ✅ Product catalog browsing  
+- ✅ Shopping cart functionality
+- ✅ English/Arabic language support
+- ✅ Hot offers section
+- ✅ Responsive design
 
 ## Screenshots
-[Will add screenshots later]
+
+### Welcome Screen
+![Welcome](screenshots/welcome.jpg)
+
+### Home Screen  
+![Home](screenshots/home.jpg)
+
+### Cart Screen
+![Cart](screenshots/cart.jpg)
+
+### Arabic Version
+![Arabic](screenshots/arabic.jpg)
+
+## Installation
+1. Clone this repository:
+```bash
+git clone https://github.com/YourUsername/aesthetic-shop.git
